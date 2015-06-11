@@ -13,6 +13,7 @@
 		FC77039A1B294F1C006DB890 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC7703991B294F1C006DB890 /* Images.xcassets */; };
 		FC77039D1B294F1C006DB890 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC77039B1B294F1C006DB890 /* LaunchScreen.xib */; };
 		FC7703A91B294F1C006DB890 /* TappityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7703A81B294F1C006DB890 /* TappityTests.swift */; };
+		FC7703B41B295248006DB890 /* LeaderBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC7703B31B295248006DB890 /* LeaderBoardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FC7703A21B294F1C006DB890 /* TappityTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TappityTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC7703A71B294F1C006DB890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC7703A81B294F1C006DB890 /* TappityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TappityTests.swift; sourceTree = "<group>"; };
+		FC7703B31B295248006DB890 /* LeaderBoardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeaderBoardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		FC77038F1B294F1C006DB890 /* Tappity */ = {
 			isa = PBXGroup;
 			children = (
+				FC7703B21B295235006DB890 /* leaderboard */,
 				FC7703921B294F1C006DB890 /* AppDelegate.swift */,
 				FC7703941B294F1C006DB890 /* ViewController.swift */,
 				FC7703961B294F1C006DB890 /* Main.storyboard */,
@@ -110,6 +113,14 @@
 				FC7703A71B294F1C006DB890 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FC7703B21B295235006DB890 /* leaderboard */ = {
+			isa = PBXGroup;
+			children = (
+				FC7703B31B295248006DB890 /* LeaderBoardViewController.swift */,
+			);
+			name = leaderboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC7703951B294F1C006DB890 /* ViewController.swift in Sources */,
+				FC7703B41B295248006DB890 /* LeaderBoardViewController.swift in Sources */,
 				FC7703931B294F1C006DB890 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
