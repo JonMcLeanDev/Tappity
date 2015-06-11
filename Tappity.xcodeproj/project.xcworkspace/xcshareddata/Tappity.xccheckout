@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0AE48651-4162-430A-9A89-B7F06A7E7C1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tappity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89678F3FF19A44922074F20A687596F77321549A</key>
+		<string>https://github.com/JonMcLeanDev/Tappity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tappity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89678F3FF19A44922074F20A687596F77321549A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JonMcLeanDev/Tappity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89678F3FF19A44922074F20A687596F77321549A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89678F3FF19A44922074F20A687596F77321549A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tappity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
